@@ -1,9 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=50bcdf&height=100&style=flat-square&section=header&text=ysh038&fontColor=ffffff&fontSize=30&animation=fadeIn&fontAlignY=55)
-
-</br>
-</br>
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=50bcdf&height=120&style=flat-square&section=header&text=ysh038&fontColor=ffffff&fontSize=30&animation=fadeIn&fontAlignY=55)
 
 ### 유상훈의 GitHub 입니다
 
