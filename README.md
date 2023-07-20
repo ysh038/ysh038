@@ -4,7 +4,7 @@
 
 ### 😃 유상훈의 GitHub 입니다
 
-#### Front-end / Back-end Stack
+#### 📚 Front-end / Back-end Stack
 
 <img src="https://img.shields.io/badge/html5-red?style=flat&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-blue?style=flat&logo=css3&logoColor=white">
@@ -18,14 +18,14 @@
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/SpringBoot-green?style=flat&logo=springboot&logoColor=white">
 
-#### IDE
+#### 🧰 IDE
 <img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=flat&logo=VisualStudio&logoColor=white"/>
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=VisualStudioCode&logoColor=white"/>
 <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat&logo=AndroidStudio&logoColor=white"/>
 <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=IntelliJIDEA&logoColor=white"/>
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=EclipseIDE&logoColor=white"/>
 
-#### Cowork tool
+#### 🧑‍🤝‍🧑 Cowork tool
 <img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=GitHub&logoColor=white"/>
 <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white"/>
@@ -39,7 +39,7 @@
 </br>
 </br>
 
-#### 진행한 프로젝트
+### 진행한 프로젝트
 
 ###### Arcane
 
