@@ -8,6 +8,7 @@
 ### 유상훈의 GitHub 입니다
 
 #### 기술 스택
-<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
+
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
 
 </div>
