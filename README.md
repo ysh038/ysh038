@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?text=유상훈&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=893107&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
 
 <!--
 **ysh038/ysh038** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
