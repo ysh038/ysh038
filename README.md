@@ -46,9 +46,13 @@
 
 ###### Arcane
 
-[![Post Card](https://tistory-readme-stats.vercel.app/api?name=unwind&postId=26&description=설명&color=dark)](https://unwind.tistory.com/entry/Nodejs%EC%99%80-Riot-API%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)
+[![Post Card](https://tistory-readme-stats.vercel.app/api?name=unwind&postId=26&description=&color=dark)](https://unwind.tistory.com/entry/Nodejs%EC%99%80-Riot-API%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)
 
 ###### 별글
 
+[![Post Card](https://tistory-readme-stats.vercel.app/api?name=unwind&postId=34&description=&color=dark)](https://unwind.tistory.com/entry/34)
+
+
 ###### PetRoad
+
 </div>
