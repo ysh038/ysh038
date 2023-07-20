@@ -36,6 +36,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ysh038&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Post Card](https://tistory-readme-stats.vercel.app/api?name=unwind&postId=1&description=설명&color=dark)]([클릭하면 이동할 링크](https://unwind.tistory.com/entry/Nodejs%EC%99%80-Riot-API%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)https://unwind.tistory.com/entry/Nodejs%EC%99%80-Riot-API%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)
-
+[![Post Card](https://tistory-readme-stats.vercel.app/api?name=unwind&postId=1&description=설명&color=dark)](https://unwind.tistory.com/entry/Nodejs%EC%99%80-Riot-API%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)
 </div>
