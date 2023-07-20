@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=50bcdf&height=100&section=header&text=ysh038&fontColor=ffffff&fontSize=30&animation=fadeIn&fontAlignY=55)
 
-## 유상훈의 GitHub 입니다
+### 유상훈의 GitHub 입니다
 <!--
 **ysh038/ysh038** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
