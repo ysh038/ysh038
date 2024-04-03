@@ -39,7 +39,7 @@
 
 ### 진행한 프로젝트
 
-###### Arcane
+#### Arcane
 
 Node.js와 React를 사용한 _League of Legends_ 전적 검색 웹 페이지입니다.
 riot에서 제공하는 API를 실시간으로 받아와 특정 유저의 전적을 검색합니다..
@@ -53,8 +53,9 @@ nosql 데이터베이스인 mongoDB를 사용해 데이터베이스를 구성했
 [![블로그 링크](https://tistory-readme-stats.vercel.app/api?name=unwind&postId=26&description=&color=dark)](https://unwind.tistory.com/entry/Nodejs%EC%99%80-Riot-API%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)
 
 > https://github.com/ysh038/Arcane
+</br>
 
-###### 별글
+#### 별글
 
 SpringBoot 기반 SNS의 백엔드입니다.
 
@@ -63,8 +64,9 @@ RestfulAPI를 설계하는 것에 중점을 두고 진행했습니다.
 [![블로그 링크](https://tistory-readme-stats.vercel.app/api?name=unwind&postId=34&description=&color=dark)](https://unwind.tistory.com/entry/34)
 
 > https://github.com/KKaeBu/StarWriting
+</br>
 
-###### PetRoad
+#### PetRoad
 
 SpringBoot와 Android기반 어플리케이션입니다.
 
@@ -73,8 +75,9 @@ Android 앱과 SpringBoot 기반의 GPS장치와 사용자의 핸드폰 3개의 
 모든 통신API는 Restful하도록 설계했습니다.
 
 > https://github.com/almond0115/MyPetRoadApp
+</br>
 
-###### 채팅 서버
+#### 채팅 서버
 
 Python3기반 채팅 서버입니다.
 
@@ -83,8 +86,9 @@ Python3기반 채팅 서버입니다.
 mutex와 contidion variable을 통한 비동기처리, socket, multi-threading 등을 학습하게 되었습니다.
 
 > https://github.com/ysh038/backend2023/tree/main/chat_server
+</br>
 
-###### 메모장 서버
+#### 메모장 서버
 
 Flask기반 메모장 서버입니다.
 
