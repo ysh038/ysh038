@@ -12,7 +12,6 @@
 <img src="https://img.shields.io/badge/netlify-red?style=flat&logo=netlify&logoColor=white">
 <img src="https://img.shields.io/badge/MongoDB-green?style=flat&logo=mongodb&logoColor=white">
 </br>
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/SpringBoot-green?style=flat&logo=springboot&logoColor=white">
 <img src="https://img.shields.io/badge/docker-blue?style=flat&logo=docker&logoColor=white">
 <img src="https://img.shields.io/badge/next.js-green?style=flat&logo=next.js&logoColor=white">
