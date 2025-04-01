@@ -33,7 +33,7 @@
 </br>
 </br>
 
-### ToyProjects
+### Projects
 
 |Name|Description|Link|
 |------|---|---|
